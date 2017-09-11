@@ -10,9 +10,9 @@
 
 | classification | stack  |
 | ------------- | ------------- |
-| application & data | bootstrap, jquery, amazon ec2/s3, angularjs, phonegap, iOnic |
+| application & data | nodejs, bootstrap, jquery, amazon ec2/s3, angularjs |
 | language  | python, javascript, html5, markdown, css3, C, C++ |
-| framework  | Express, Django, Flask |
+| framework  | Express, Django, Flask, phoneGap, iOnic |
 | DB | MySQL, Oracle, postgreSQL |
 | devOps  | github, bitbucket, sublime text, Atom, pyCharm, CLion, WebStorm |
 
