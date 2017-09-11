@@ -44,7 +44,7 @@
       + 안드로이드 앱 제작, 개발
       + 사용한 SKILL 또는 지식 : android
     - **[ Ground-football ]**
-      + 아마추어 축구 팀 매칭, 팀과 선수간 매칭, 팀 포메이션 제작 및 공유 플랫폼 제작
+      + SK T아카데미 서버 전문가 과정으로 아마추어 축구 팀 매칭, 팀과 선수간 매칭, 팀 포메이션 제작 및 공유 플랫폼 제작
       + 모바일 서버 및 클라우드 서비스 구축, Phonegap 으로 하이브리드 앱 제작
       + 사용한 SKILL 또는 지식 : AWS, Nodejs, MySQL, jQuery(jQuery mobile, jQuery-ui), phoneGap
   * 2016 Y
