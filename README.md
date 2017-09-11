@@ -46,7 +46,7 @@
     - **[ Ground-football ]**
       + 아마추어 축구 팀 매칭, 팀과 선수간 매칭, 팀 포메이션 제작 및 공유 플랫폼 제작
       + 모바일 서버 및 클라우드 서비스 구축, Phonegap 으로 하이브리드 앱 제작
-      + 사용한 SKILL 또는 지식 : AWS, Nodejs, MySQL, jQuery(jQuery mobile, jQuery-ui), Phonegap
+      + 사용한 SKILL 또는 지식 : AWS, Nodejs, MySQL, jQuery(jQuery mobile, jQuery-ui), phoneGap
   * 2016 Y
     - [**[ MayBach Project (private) ]**](https://github.com/koocci/MaybachProject/blob/master/%EB%93%9C%EB%A6%BC%EC%98%A8%20%EA%B0%9C%EB%B0%9C%20%EB%AC%B8%EC%84%9C.pdf)
       + 커넥티드카 [주식회사 DreamOn](http://www.smartcar.or.kr/) 에서 차량진단, 차량관제, 데이터 관리 업무 진행
