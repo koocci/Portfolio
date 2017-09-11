@@ -12,8 +12,8 @@
 | ------------- | ------------- |
 | application & data | bootstrap, jquery, amazon ec2/s3, angularjs, phonegap, iOnic |
 | language  | python, javascript, html5, markdown, css3, C, C++ |
-| framework  | Express, Django, flask |
-| DB | MySQL, oracle, postgreSQL |
+| framework  | Express, Django, Flask |
+| DB | MySQL, Oracle, postgreSQL |
 | devOps  | github, bitbucket, sublime text, Atom, pycharm, CLion, WebStorm |
 
 ## 경력(Experience)
