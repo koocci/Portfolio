@@ -10,11 +10,11 @@
 
 | classification | stack  |
 | ------------- | ------------- |
-| application & data | nodejs, bootstrap, jquery, amazon ec2/s3, angularjs, Kafka, fluentD |
-| language  | python, javascript, html5, markdown, css3, C, C++ |
+| application & data | nodejs, bootstrap, jquery, amazon ec2/s3, angularjs |
+| language  | python, javascript, html5, markdown, C, C++ |
 | framework  | Express, Django, Flask, phoneGap, iOnic |
 | DB | MySQL, Oracle, postgreSQL |
-| devOps  | github, bitbucket, sublime text, Atom, pyCharm, CLion, WebStorm |
+| devOps  | github, bitbucket, sublime text, Atom, PyCharm, CLion, WebStorm |
 
 ## 경력(Experience)
   * 2004 Y
