@@ -56,7 +56,7 @@
       + 교내 프로젝트로 C++과 javascript 를 간단히 결합한 ECMA-C 라는 언어를 구상해, 간단한 Compiler 제작
       + 언어 Syntax, Semantic 설정, 기초 code generation 담당
       + 사용한 SKILL 또는 지식 : C, LEX, YACC
-    - [Moma](https://github.com/0x1306e6d/moma)
+    - [**[ Moma ]**](https://github.com/0x1306e6d/moma)
       + 교내 프로젝트로 stm32, cortex-m3, dstream 을 이용한 모션 인식 마우스 제작
       + C 를 이용한 하드웨어 프로그래밍, 구부림, 적외선 센서 연동
       + 사용한 SKILL 또는 지식 : C, 하드웨어 프로그래밍
