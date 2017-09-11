@@ -49,8 +49,8 @@
       + 사용한 SKILL 또는 지식 : AWS, Nodejs, MySQL, jQuery(jQuery mobile, jQuery-ui), phoneGap
   * 2016 Y
     - [**[ MayBach Project (private) ]**](https://github.com/koocci/MaybachProject/blob/master/%EB%93%9C%EB%A6%BC%EC%98%A8%20%EA%B0%9C%EB%B0%9C%20%EB%AC%B8%EC%84%9C.pdf)
-      + 커넥티드카 [주식회사 DreamOn](http://www.smartcar.or.kr/) 에서 차량진단, 차량관제, 데이터 관리 업무 진행
-      + 카센터 위주의 차량진단 서비스, 사용자를 위한 차량관제서비스, 기타 서버, DB 제작 및 관리
+      + 커넥티드카 [주식회사 DreamOn](http://www.smartcar.or.kr/) 에서 웹서비스 및 데이터 관리 업무 진행
+      + 카센터 위주의 차량진단 서비스, 사용자를 위한 차량관제서비스, 기타 서버/DB 제작 및 관리
       + 사용한 SKILL 또는 지식 : KT Cloud, HTML, javascript (Nodejs, jQuery, PhantomJS 등), MySQL
     - [**[ ECMA-C ]**](https://github.com/seunggu/ECMA-C-Compiler)
       + 교내 프로젝트로 C++과 javascript 를 간단히 결합한 ECMA-C 라는 언어를 구상해, 간단한 Compiler 제작
