@@ -14,7 +14,7 @@
 | language  | python, javascript, html5, markdown, css3, C, C++ |
 | framework  | Express, Django, Flask |
 | DB | MySQL, Oracle, postgreSQL |
-| devOps  | github, bitbucket, sublime text, Atom, pycharm, CLion, WebStorm |
+| devOps  | github, bitbucket, sublime text, Atom, pyCharm, CLion, WebStorm |
 
 ## 경력(Experience)
   * 2004 Y
