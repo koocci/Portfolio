@@ -10,7 +10,7 @@
 
 | classification | stack  |
 | ------------- | ------------- |
-| application & data | nodejs, bootstrap, jquery, amazon ec2/s3, angularjs |
+| application & data | nodejs, bootstrap, jquery, amazon ec2/s3, angularjs, Kafka, fluentD |
 | language  | python, javascript, html5, markdown, css3, C, C++ |
 | framework  | Express, Django, Flask, phoneGap, iOnic |
 | DB | MySQL, Oracle, postgreSQL |
@@ -68,7 +68,8 @@
     - [**[ Mini Clova (private) ]**](https://github.com/koocci/miniClova/blob/master/%EB%AF%B8%EB%8B%88%ED%81%B4%EB%A1%9C%EB%B0%94.pdf)
       + NAVER Corp. 인턴을 하며 사내 서비스인 클로바의 Mini 버전 제작
       + 문장의 구문 분석을 통해 음성으로 응답을 출력하며 플랫폼화 시킨 웹 서비스 개발, 가계부 형태의 서드파티 제작
-      + 사용한 SKILL 또는 지식 : Nodejs, Python, MySQL, Kafka, FluentD
+      + kafka, fluentD를 이용한 로깅 처리
+      + 사용한 SKILL 또는 지식 : Nodejs, Python, MySQL, Kafka, fluentD
     - [**[ MyBiseo (진행중) ]**](https://github.com/koocci/mybiseo)
       + 졸업과제로 인공지능 기반 챗봇 개발, 날씨, 알람, 메모, 메시지 등 구현
       + 사용한 SKILL 또는 지식 : python, tensorflow, django, android
