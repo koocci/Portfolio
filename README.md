@@ -5,6 +5,7 @@
 [![e-mail](https://img.shields.io/badge/e--mail-lazyeffect1@gmail.com-orange.svg)](mailto:lazyeffect1@gmail.com)
 [![blog](https://img.shields.io/badge/blog-https://koocci.github.io/-yellowgreen.svg)](https://koocci.github.io/)
 [![facebook](https://img.shields.io/badge/facebook-FB-blue.svg)](https://www.facebook.com/gu.jinhyun)
+[![portfolio](https://img.shields.io/badge/portfolio-https://github.com/koocci/Portfolio/-red.svg)](https://github.com/koocci/Portfolio/)
 
 ## 기술(Techincal Skills)
 
