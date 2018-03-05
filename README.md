@@ -50,7 +50,7 @@
       + 추가 개발로 Android로 전환 및 운영
       + 사용한 SKILL 또는 지식 : AWS, Nodejs, MySQL, jQuery(jQuery mobile, jQuery-ui), phoneGap, Android
   * 2016 Y
-    - [**[ MayBach Project ]**](https://github.com/koocci/MaybachProject/blob/master/%EB%93%9C%EB%A6%BC%EC%98%A8%20%EA%B0%9C%EB%B0%9C%20%EB%AC%B8%EC%84%9C.pdf)
+    - [**[ MayBach Project ]**](https://github.com/koocci/MaybachProject)
       + 커넥티드카 [주식회사 DreamOn](http://www.smartcar.or.kr/) 에서 웹서비스 및 데이터 관리 업무 진행
       + 카센터 위주의 차량진단 서비스, 사용자를 위한 차량관제서비스, 기타 서버/DB 제작 및 관리
       + 사용한 SKILL 또는 지식 : KT Cloud, HTML, javascript (Nodejs, jQuery, PhantomJS 등), MySQL
@@ -67,7 +67,7 @@
       + [개발 자료 (private)](https://github.com/koocci/onepageWeb)
       + 병원 소개 및 게시판 제작
       + 사용한 SKILL 또는 지식 : AngularJS, Nodejs, MySQL
-    - [**[ Mini Clova ]**](https://github.com/koocci/miniClova/blob/master/%EB%AF%B8%EB%8B%88%ED%81%B4%EB%A1%9C%EB%B0%94.pdf)
+    - [**[ Mini Clova ]**](https://github.com/koocci/miniClova)
       + NAVER Corp. 인턴을 하며 사내 서비스인 클로바의 Mini 버전 제작
       + 문장의 구문 분석을 통해 음성으로 응답을 출력하며 플랫폼화 시킨 웹 서비스 개발, 가계부 형태의 서드파티 제작
       + kafka, fluentD를 이용한 로깅 처리
