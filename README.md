@@ -1,6 +1,6 @@
 # 구진현 (Gu Jin Hyun)
 
-## Junior Developer 
+## Junior Developer
 
 [![e-mail](https://img.shields.io/badge/e--mail-lazyeffect1@gmail.com-orange.svg)](mailto:lazyeffect1@gmail.com)
 [![blog](https://img.shields.io/badge/blog-https://koocci.github.io/-yellowgreen.svg)](https://koocci.github.io/)
@@ -11,11 +11,11 @@
 
 | classification | stack  |
 | ------------- | ------------- |
-| application & data | nodejs, bootstrap, jquery, amazon ec2/s3, angularjs |
-| language  | python, javascript, html5, markdown, C, C++ |
+| application & data | nodejs, bootstrap, jquery, AWS, angularjs, Android |
+| language  | Python3, Javascript, HTML5, CSS3, MarkDown, C, C++, JAVA |
 | framework  | Express, Django, Flask, phoneGap, iOnic |
 | DB | MySQL, Oracle, postgreSQL |
-| devOps  | github, bitbucket, sublime text, Atom, PyCharm, CLion, WebStorm |
+| devOps  | github, bitbucket, sublime text, Atom, PyCharm, CLion, Android Studio |
 
 ## 경력(Experience)
   * 2004 Y
@@ -47,7 +47,8 @@
     - **[ Ground-football ]**
       + SK T아카데미 서버 전문가 과정으로 아마추어 축구 팀 매칭, 팀과 선수간 매칭, 팀 포메이션 제작 및 공유 플랫폼 제작
       + 모바일 서버 및 클라우드 서비스 구축, Phonegap 으로 하이브리드 앱 제작
-      + 사용한 SKILL 또는 지식 : AWS, Nodejs, MySQL, jQuery(jQuery mobile, jQuery-ui), phoneGap
+      + 추가 개발로 Android로 전환 및 운영
+      + 사용한 SKILL 또는 지식 : AWS, Nodejs, MySQL, jQuery(jQuery mobile, jQuery-ui), phoneGap, Android
   * 2016 Y
     - [**[ MayBach Project (private) ]**](https://github.com/koocci/MaybachProject/blob/master/%EB%93%9C%EB%A6%BC%EC%98%A8%20%EA%B0%9C%EB%B0%9C%20%EB%AC%B8%EC%84%9C.pdf)
       + 커넥티드카 [주식회사 DreamOn](http://www.smartcar.or.kr/) 에서 웹서비스 및 데이터 관리 업무 진행
@@ -71,13 +72,13 @@
       + 문장의 구문 분석을 통해 음성으로 응답을 출력하며 플랫폼화 시킨 웹 서비스 개발, 가계부 형태의 서드파티 제작
       + kafka, fluentD를 이용한 로깅 처리
       + 사용한 SKILL 또는 지식 : Nodejs, Python, MySQL, Kafka, fluentD
-    - [**[ MyBiseo (진행중) ]**](https://github.com/koocci/mybiseo)
+    - [**[ MyBiseo ]**](https://github.com/koocci/mybiseo)
       + 졸업과제로 인공지능 기반 챗봇 개발, 날씨, 알람, 메모, 메시지 등 구현
       + 사용한 SKILL 또는 지식 : python, tensorflow, django, android
-    - [**[ OnProject (진행중) ]**](https://github.com/orgs/AIClub-D/dashboard)
+    - [**[ AI-Club ]**](http://aiclub.kr/)
+      + 인공지능 기초 및 기본 학습 스터디
       + [인공지능 스터디 문서](https://www.gitbook.com/book/koocci/aiclub-d/details)
-      + 감정분석을 통해 응답을 제공하는 챗봇형 AI 스피커 제작
-      + 사용한 SKILL 또는 지식 : python, Rasberrypi, 3D Printing
+      + 사용한 SKILL 또는 지식 : python, tensorflow
 
 ## 교육 수료 및 기타 경력(Edu. Certificate & Extra Experience)
   * 2015 Y
