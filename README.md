@@ -29,7 +29,7 @@
 * 2017 Y
 
   * SQLD 자격증 취득
-  * 중개박사\(VOS\) 팀 developer \(진행중\)
+  * 중개박사\(VOS\) 팀 developer
   * Naver Corp. 2017 Summer Internship 수료
 
 * 2018 Y
