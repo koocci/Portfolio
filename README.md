@@ -4,16 +4,6 @@
 
 [![e-mail](https://img.shields.io/badge/e--mail-lazyeffect1@gmail.com-orange.svg)](mailto:lazyeffect1@gmail.com) [![blog](https://img.shields.io/badge/blog-https://koocci.github.io/-yellowgreen.svg)](https://koocci.github.io/) [![facebook](https://img.shields.io/badge/facebook-FB-blue.svg)](https://www.facebook.com/gu.jinhyun) [![portfolio](https://img.shields.io/badge/portfolio-https://github.com/koocci/Portfolio/-red.svg)](https://github.com/koocci/Portfolio/)
 
-## 기술\(Techincal Skills\)
-
-| classification | stack |
-| :--- | :--- |
-| application & data | node.js, bootstrap, jquery, AWS, angular.js, Android, tensorflow, vue.js, Kafka |
-| language | Python3, Javascript, HTML5, CSS3, MarkDown, C, C++, JAVA |
-| framework | Express, Django, Flask, phoneGap, iOnic |
-| DB | MySQL, Oracle, postgreSQL |
-| devOps | github, bitbucket, sublime text, Atom, PyCharm, CLion, Android Studio, Visual Code |
-
 ## 경력\(Experience\)
 
 * 2004 Y
@@ -27,13 +17,11 @@
   * [주식회사 DreamOn](http://www.smartcar.or.kr/) 재직
   * 부산대 소프트웨어중심사업 멘토링 멘토
 * 2017 Y
-
   * SQLD 자격증 취득
   * 중개박사\(VOS\) 팀 developer
   * Naver Corp. 2017 Summer Internship 수료
-
-* 2018 Y
-  * KT AI개발P-TF 재직
+* 2018 ~ Y
+  * KT AI플랫폼개발팀 개발 재직
 
 ## 프로젝트\(Project\)
 
@@ -82,20 +70,11 @@
     * 인공지능 기초 및 기본 학습 스터디
     * [인공지능 스터디 문서](https://www.gitbook.com/book/koocci/aiclub-d/details)
     * 사용한 SKILL 또는 지식 : python, tensorflow
-
-## 교육 수료 및 기타 경력\(Edu. Certificate & Extra Experience\)
-
-* 2015 Y
-  * 부산시 공교육 만족 프로젝트 멘토 \(중학 수학\)
-  * SK T아카데미 단기과정
-    * HTML5와 CSS를 이용한 모바일 웹 프로그래밍
-    * 앱 비즈니스 창업 입문
-    * Android 오픈소스 Library 활용
-    * 모바일 서버 프로그래밍 기본
-    * 데이터베이스 모델링/튜닝
-* 2016 Y
-  * SK T아카데미 단기과정
-    * 모바일 앱 보안 정책 이해
+ * 2018 ~ Y
+  * **\[ AI 가공/정제 플랫폼 API 개발 \]**
+    * 영문 음역 한글화 서비스 개발 & REST API 개발
+    * 음성인식스피커 날씨 서비스 설계
+    * 음성인식스피커 프로야구 서비스 개발
 
 ## 학력\(Education\)
 
