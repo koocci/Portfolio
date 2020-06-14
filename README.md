@@ -70,11 +70,22 @@
     * 인공지능 기초 및 기본 학습 스터디
     * [인공지능 스터디 문서](https://www.gitbook.com/book/koocci/aiclub-d/details)
     * 사용한 SKILL 또는 지식 : python, tensorflow
- * 2018 ~ Y
+ * 2018 Y
   * **\[ AI 가공/정제 플랫폼 API 개발 \]**
     * 영문 음역 한글화 서비스 개발 & REST API 개발
     * 음성인식스피커 날씨 서비스 설계
-    * 음성인식스피커 프로야구 서비스 개발
+ * 2019 Y
+  * **\[ 음성인식스피커 프로야구 서비스 개발 \]**
+    * 주기적 프로야구 데이터 적재 서비스 개발
+    * 사용한 SKILL 또는 지식 : Python(Flask), MySQL
+  * **\[ 사내 컨퍼런스 소개 웹사이트 개발 \]**
+    * 사내 컨퍼런스 소개 페이지 제작
+    * 사용한 SKILL 또는 지식 : Python(Flask), Vue.js, PostgreSQL
+ * 2020 Y
+  * **\[ 인공지능스피커 B2B 플랫폼 개발 \]**
+    * Hospitality 사업 지원을 위한 어메니티 로봇 연계 개발
+    * 로깅 처리를 통한 통계 서비스 개발
+    * 사용한 SKILL 또는 지식 : Spring boot, JSP, PostgreSQL, ELK Stack
 
 ## 학력\(Education\)
 
