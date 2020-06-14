@@ -39,20 +39,12 @@
     * SK T아카데미 서버 전문가 과정으로 아마추어 축구 팀 매칭, 팀과 선수간 매칭, 팀 포메이션 제작 및 공유 플랫폼 제작
     * 모바일 서버 및 클라우드 서비스 구축, Phonegap 으로 하이브리드 앱 제작
     * 추가 개발로 Android로 전환 및 운영
-    * 사용한 SKILL 또는 지식 : AWS, Nodejs, MySQL, jQuery\(jQuery mobile, jQuery-ui\), phoneGap, Android
+    * 사용한 SKILL 또는 지식 : AWS, Nodejs, MySQL, jQuery, phoneGap, Android
 * 2016 Y
   * [**\[ MayBach Project \]**](https://github.com/koocci/MaybachProject)
     * 커넥티드카 [주식회사 DreamOn](http://www.smartcar.or.kr/) 에서 웹서비스 및 데이터 관리 업무 진행
     * 카센터 위주의 차량진단 서비스, 사용자를 위한 차량관제서비스, 기타 서버/DB 제작 및 관리
     * 사용한 SKILL 또는 지식 : KT Cloud, HTML, javascript \(Nodejs, jQuery, PhantomJS 등\), MySQL
-  * [**\[ ECMA-C \]**](https://github.com/seunggu/ECMA-C-Compiler)
-    * 교내 프로젝트로 C++과 javascript 를 간단히 결합한 ECMA-C 라는 언어를 구상해, 간단한 Compiler 제작
-    * 언어 Syntax, Semantic 설정, 기초 code generation 담당
-    * 사용한 SKILL 또는 지식 : C, LEX, YACC
-  * [**\[ Moma \]**](https://github.com/0x1306e6d/moma)
-    * 교내 프로젝트로 stm32, cortex-m3, dstream 을 이용한 모션 인식 마우스 제작
-    * C 를 이용한 하드웨어 프로그래밍, 구부림, 적외선 센서 연동
-    * 사용한 SKILL 또는 지식 : C
 * 2017 Y
   * [**\[ 선재암요양병원 웹 서비스 \]**](http://jayson1.cafe24app.com/)
     * [개발 자료 \(private\)](https://github.com/koocci/onepageWeb)
@@ -61,15 +53,7 @@
   * [**\[ Mini Clova \]**](https://github.com/koocci/miniClova)
     * NAVER Corp. 인턴을 하며 사내 서비스인 클로바의 Mini 버전 제작
     * 문장의 구문 분석을 통해 음성으로 응답을 출력하며 플랫폼화 시킨 웹 서비스 개발, 가계부 형태의 서드파티 제작
-    * kafka, fluentD를 이용한 로깅 처리
-    * 사용한 SKILL 또는 지식 : Nodejs, Python, MySQL, Kafka, fluentD
-  * [**\[ MyBiseo \]**](https://github.com/koocci/mybiseo)
-    * 졸업과제로 인공지능 기반 챗봇 개발, 날씨, 알람, 메모, 메시지 등 구현
-    * 사용한 SKILL 또는 지식 : python, tensorflow, django, android
-  * [**\[ AI-Club \]**](http://aiclub.kr/)
-    * 인공지능 기초 및 기본 학습 스터디
-    * [인공지능 스터디 문서](https://www.gitbook.com/book/koocci/aiclub-d/details)
-    * 사용한 SKILL 또는 지식 : python, tensorflow
+    * 사용한 SKILL 또는 지식 : Nodejs, Python, MySQL
  * 2018 Y
   * **\[ AI 가공/정제 플랫폼 API 개발 \]**
     * 영문 음역 한글화 서비스 개발 & REST API 개발
@@ -85,7 +69,7 @@
   * **\[ 인공지능스피커 B2B 플랫폼 개발 \]**
     * Hospitality 사업 지원을 위한 어메니티 로봇 연계 개발
     * 로깅 처리를 통한 통계 서비스 개발
-    * 사용한 SKILL 또는 지식 : Spring boot, JSP, PostgreSQL, ELK Stack
+    * 사용한 SKILL 또는 지식 : Spring boot, JSP, jQuery, PostgreSQL, ELK Stack
 
 ## 학력\(Education\)
 
