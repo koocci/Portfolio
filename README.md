@@ -30,7 +30,7 @@
     * 교내 프로젝트로 오픈소스로 제공된 실제도로 이미지 위에서 진행되는 간단한 팩맨 게임 제작
     * 안드로이드 웹뷰를 이용한 간단 웹앱 제작
     * Javascript 개발 지식 습득, 웹뷰 활용 어플 제작 방법 습득
-    * 사용한 SKILL 또는 지식 : javascript, HTML5, CSS3, android
+    * 사용한 SKILL 또는 지식 : javascript, android
   * **\[ FASIO \]**
     * 2015 PNU 창업동아리 START-UP 사업화 평가 대회에서 교내 대학생 개인 트레이너 주선 O2O 앱 제작
     * 안드로이드 앱 제작, 개발
