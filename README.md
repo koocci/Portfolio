@@ -21,7 +21,7 @@
   * 중개박사\(VOS\) 팀 developer
   * Naver Corp. 2017 Summer Internship 수료
 * 2018 ~ Y
-  * KT AI플랫폼개발팀 개발 재직
+  * KT AI플랫폼개발팀 재직
 
 ## 프로젝트\(Project\)
 
@@ -49,7 +49,7 @@
   * [**\[ 선재암요양병원 웹 서비스 \]**](http://jayson1.cafe24app.com/)
     * [개발 자료 \(private\)](https://github.com/koocci/onepageWeb)
     * 병원 소개 및 게시판 제작
-    * 사용한 SKILL 또는 지식 : AngularJS, Nodejs, MySQL
+    * 사용한 SKILL 또는 지식 : Nodejs, MySQL
   * [**\[ Mini Clova \]**](https://github.com/koocci/miniClova)
     * NAVER Corp. 인턴을 하며 사내 서비스인 클로바의 Mini 버전 제작
     * 문장의 구문 분석을 통해 음성으로 응답을 출력하며 플랫폼화 시킨 웹 서비스 개발, 가계부 형태의 서드파티 제작
@@ -70,7 +70,8 @@
   * **\[ 인공지능스피커 B2B 플랫폼 개발 \]**
     * Hospitality 사업 지원을 위한 어메니티 로봇 연계 개발
     * 로깅 처리를 통한 CMS 통계 서비스 개발
-    * 사용한 SKILL 또는 지식 : Spring boot, JSP, jQuery, PostgreSQL, ELK Stack
+    * 리조트 웹앱/API 서버 개발
+    * 사용한 SKILL 또는 지식 : Spring boot, JSP, jQuery, Vue.js, PostgreSQL, ELK Stack
 
 ## 학력\(Education\)
 
