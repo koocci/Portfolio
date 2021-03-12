@@ -27,12 +27,11 @@
 
 * 2016 Y
   * [**\[ MayBach Project \]**](https://github.com/koocci/MaybachProject)
-    * 커넥티드카 [주식회사 DreamOn](http://www.smartcar.or.kr/) 에서 웹서비스 및 데이터 관리 업무 진행
+    * 커넥티드카 주식회사 DreamOn 에서 웹서비스 및 데이터 관리 업무 진행
     * 카센터 위주의 차량진단 서비스, 사용자를 위한 차량관제서비스, 기타 서버/DB 제작 및 관리
     * 사용한 SKILL 또는 지식 : KT Cloud, HTML, javascript \(Nodejs, jQuery, PhantomJS 등\), MySQL
 * 2017 Y
-  * [**\[ 선재암요양병원 웹 서비스 \]**](http://jayson1.cafe24app.com/)
-    * [개발 자료 \(private\)](https://github.com/koocci/onepageWeb)
+  * **\[ 선재암요양병원 웹 서비스 \]**
     * 병원 소개 및 게시판 제작
     * 사용한 SKILL 또는 지식 : Nodejs, MySQL
   * [**\[ Mini Clova \]**](https://github.com/koocci/miniClova)
