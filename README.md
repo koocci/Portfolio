@@ -72,6 +72,13 @@
     * 로깅 처리를 통한 호텔 통계 서비스 개발
     * 리조트 웹앱/API/CMS 서버 개발
     * 사용한 SKILL 또는 지식 : Spring boot, jQuery, Vue.js, PostgreSQL, ELK Stack
+* 2021 Y
+  * **\[ 인공지능스피커 B2B 플랫폼 개발 \]**
+    * 리조트 웹앱/API/CMS 서버 개발
+    * 사용한 SKILL 또는 지식 : Spring boot, jQuery, Vue.js, PostgreSQL
+  * **\[ AI News Bot 개발 \]**
+    * 도메인 별 일간 News 요약 전송 시스템 프론트엔드 개발
+    * 사용한 SKILL 또는 지식 : Vue.js
 
 ## 학력\(Education\)
 
