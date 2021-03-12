@@ -18,7 +18,6 @@
   * 부산대 소프트웨어중심사업 멘토링 멘토
 * 2017 Y
   * SQLD 자격증 취득
-  * 중개박사\(VOS\) 팀 developer
   * Naver Corp. 2017 Summer Internship 수료
 * 2018 ~ Y
   * KT AI플랫폼개발팀 재직
