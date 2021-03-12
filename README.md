@@ -15,7 +15,7 @@
   * 2015 PNU 창업동아리 START-UP 창업캠프 4위
   * SK T 아카데미 전문가 과정 
 * 2016 Y
-  * [주식회사 DreamOn](http://www.smartcar.or.kr/) 재직
+  * 주식회사 DreamOn 재직
   * 부산대 소프트웨어중심사업 멘토링 멘토
 * 2017 Y
   * SQLD 자격증 취득
