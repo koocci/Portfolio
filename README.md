@@ -24,21 +24,6 @@
 
 ## 프로젝트\(Project\)
 
-* 2015 Y
-  * **\[ Road PACMAN \]**
-    * 교내 프로젝트로 오픈소스로 제공된 실제도로 이미지 위에서 진행되는 간단한 팩맨 게임 제작
-    * 안드로이드 웹뷰를 이용한 간단 웹앱 제작
-    * Javascript 개발 지식 습득, 웹뷰 활용 어플 제작 방법 습득
-    * 사용한 SKILL 또는 지식 : javascript, android
-  * **\[ FASIO \]**
-    * 2015 PNU 창업동아리 START-UP 사업화 평가 대회에서 교내 대학생 개인 트레이너 주선 O2O 앱 제작
-    * 안드로이드 앱 제작, 개발
-    * 사용한 SKILL 또는 지식 : Android
-  * **\[ Ground-football \]**
-    * SK T아카데미 서버 전문가 과정으로 아마추어 축구 팀 매칭, 팀과 선수간 매칭, 팀 포메이션 제작 및 공유 플랫폼 제작
-    * 모바일 서버 및 클라우드 서비스 구축, Phonegap 으로 하이브리드 앱 제작
-    * 추가 개발로 Android로 전환 및 운영
-    * 사용한 SKILL 또는 지식 : AWS, Nodejs, MySQL, jQuery, phoneGap, Android
 * 2016 Y
   * [**\[ MayBach Project \]**](https://github.com/koocci/MaybachProject)
     * 커넥티드카 [주식회사 DreamOn](http://www.smartcar.or.kr/) 에서 웹서비스 및 데이터 관리 업무 진행
@@ -54,6 +39,9 @@
     * 문장의 구문 분석을 통해 음성으로 응답을 출력하며 플랫폼화 시킨 웹 서비스 개발, 가계부 형태의 서드파티 제작
     * 사용한 SKILL 또는 지식 : Nodejs, Python, MySQL
 * 2018 Y
+  * **\[ 음성인식스피커 날씨 서비스 개발 \]**
+    * 주기적 날씨 데이터 적재 서비스 개발
+    * 사용한 SKILL 또는 지식 : java, MySQL
   * **\[ AI 가공/정제 플랫폼 API 개발 \]**
     * 영문 음역 한글화 서비스 개발 & REST API 개발
     * 음성인식스피커 날씨 서비스 설계
