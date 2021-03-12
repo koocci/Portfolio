@@ -69,9 +69,9 @@
 * 2020 Y
   * **\[ 인공지능스피커 B2B 플랫폼 개발 \]**
     * Hospitality 사업 지원을 위한 어메니티 로봇 연계 개발
-    * 로깅 처리를 통한 CMS 통계 서비스 개발
-    * 리조트 웹앱/API 서버 개발
-    * 사용한 SKILL 또는 지식 : Spring boot, JSP, jQuery, Vue.js, PostgreSQL, ELK Stack
+    * 로깅 처리를 통한 호텔 통계 서비스 개발
+    * 리조트 웹앱/API/CMS 서버 개발
+    * 사용한 SKILL 또는 지식 : Spring boot, jQuery, Vue.js, PostgreSQL, ELK Stack
 
 ## 학력\(Education\)
 
