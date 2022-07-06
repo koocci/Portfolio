@@ -67,6 +67,10 @@
   * **\[ AI News Bot 개발 \]**
     * 도메인 별 일간 News 요약 전송 시스템 프론트엔드 개발
     * 사용한 SKILL 또는 지식 : Vue.js
+* 2022 Y
+  * **\[ AICC STT 패키징 개발  \]**
+    * Contact Center의 콜인프라에서 전송하는 음성 상담 통화 내용을 STT 엔진과 연동하여 실시간으로 상담사에게 대화록을 전달
+    * 사용한 SKILL 또는 지식 : Spring boot, EDBPAS, Websocket(stomp)
 
 ## 학력\(Education\)
 
