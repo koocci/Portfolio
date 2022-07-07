@@ -3,9 +3,9 @@
 ## Junior Developer
 
 [![e-ma1l](https://img.shields.io/badge/e--mail-lazyeffect1@gmail.com-orange.svg)](mailto:lazyeffect1@gmail.com) 
-[![blog2](https://img.shields.io/badge/blog1-https%3A%2F%2Fkoocci--dev.tistory.com-blue)](https://koocci-dev.tistory.com)
+[![blog2](https://img.shields.io/badge/blog1-https%3A%2F%2Fkoocci--dev.tistory.com-blueviolet)](https://koocci-dev.tistory.com)
 [![blog2](https://img.shields.io/badge/blog2-https://koocci.github.io/-green.svg)](https://koocci.github.io/) 
-
+[![facebook](https://img.shields.io/badge/facebook-FB-blue.svg)](https://www.facebook.com/gu.jinhyun)
 
 ## 경력\(Experience\)
 
