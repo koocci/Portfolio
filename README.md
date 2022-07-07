@@ -2,7 +2,7 @@
 
 ## Junior Developer
 
-[![e-mail](https://img.shields.io/badge/e--mail-lazyeffect1@gmail.com-orange.svg)](mailto:lazyeffect1@gmail.com) [![blog1](https://img.shields.io/badge/blog-https://koocci.github.io/-yellowgreen.svg)](https://koocci-dev.tistory.com/) [![blog2](https://img.shields.io/badge/-green.svg)](https://koocci.github.io/) [![portfolio](https://img.shields.io/badge/portfolio-https://github.com/koocci/Portfolio/-red.svg)](https://github.com/koocci/Portfolio/)
+[![e-mail](https://img.shields.io/badge/e--mail-lazyeffect1@gmail.com-orange.svg)](mailto:lazyeffect1@gmail.com) [![blog1](https://img.shields.io/badge/blog-https://koocci-dev.tistory.com/-yellowgreen.svg)](https://koocci-dev.tistory.com/) [![blog2](https://img.shields.io/badge/blog-https://koocci.github.io/-green.svg)](https://koocci.github.io/) [![portfolio](https://img.shields.io/badge/portfolio-https://github.com/koocci/Portfolio/-red.svg)](https://github.com/koocci/Portfolio/)
 
 ## 경력\(Experience\)
 
