@@ -23,8 +23,11 @@
 * 2017 Y
   * SQLD 자격증 취득
   * Naver Corp. 2017 Summer Internship 수료
-* 2018 ~ Y
+* 2018 ~ 2020
   * KT AI플랫폼개발팀 재직
+* 2022 ~ Y 
+  * KT AICC구축솔루션팀 재직
+  
 
 ## 프로젝트\(Project\)
 
@@ -32,19 +35,19 @@
   * [**\[ MayBach Project \]**](https://github.com/koocci/MaybachProject)
     * 커넥티드카 주식회사 DreamOn 에서 웹서비스 및 데이터 관리 업무 진행
     * 카센터 위주의 차량진단 서비스, 사용자를 위한 차량관제서비스, 기타 서버/DB 제작 및 관리
-    * 사용한 SKILL 또는 지식 : KT Cloud, HTML, javascript \(Nodejs, jQuery, PhantomJS 등\), MySQL
+    * 사용한 SKILL 또는 지식 : KT Cloud, HTML, javascript(jQuery), MySQL
 * 2017 Y
   * **\[ 선재암요양병원 웹 서비스 \]**
     * 병원 소개 및 게시판 제작
-    * 사용한 SKILL 또는 지식 : Nodejs, MySQL
+    * 사용한 SKILL 또는 지식 : javascript(jQuery), MySQL
   * [**\[ Mini Clova \]**](https://github.com/koocci/miniClova)
     * NAVER Corp. 인턴을 하며 사내 서비스인 클로바의 Mini 버전 제작
     * 문장의 구문 분석을 통해 음성으로 응답을 출력하며 플랫폼화 시킨 웹 서비스 개발, 가계부 형태의 서드파티 제작
-    * 사용한 SKILL 또는 지식 : Nodejs, Python, MySQL
+    * 사용한 SKILL 또는 지식 : javascript(Express, jQuery), MySQL
 * 2018 Y
   * **\[ 인공지능스피커 날씨 서비스 개발 \]**
     * 신규 미세먼지 시스템 및 Third Party 연동으로 일자별, 지역별 날씨 데이터를 수집 및 정제 및 적재 서비스 개발
-    * 사용한 SKILL 또는 지식 : java, MySQL
+    * 사용한 SKILL 또는 지식 : java(Spring boot), MySQL
   * **\[ AI 가공/정제 플랫폼 API 개발 \]**
     * 영문 음역 한글화 서비스 개발 & REST API 개발
     * 음성인식스피커 날씨 서비스 설계
@@ -59,7 +62,7 @@
 * 2020 Y
   * **\[ 인공지능스피커 B2B 플랫폼 개발 \]**
     * Hospitality 사업 지원을 위한 어메니티 로봇 연계 개발
-    * 로깅 처리를 통한 호텔 통계 서비스 개발
+    * ELK 로깅 파이프라인을 통한 호텔 통계 서비스 개발
     * 리조트 웹앱/API/CMS 서버 유지보수 개발
     * 사용한 SKILL 또는 지식 : Spring boot, jQuery, Vue.js, PostgreSQL, ELK Stack
 * 2021 Y
@@ -72,10 +75,9 @@
     * 사용한 SKILL 또는 지식 : Vue.js
 * 2022 Y
   * **\[ AICC STT 패키징 개발  \]**
-    * Contact Center의 콜인프라에서 전송하는 음성 상담 통화 내용을 STT 엔진과 연동하여 실시간으로 상담사에게 대화록을 전달
+    * Contact Center의 실시간 음성 상담 통화 내용을 전달하는 STT 엔진 연동 서버 개발
     * 사용한 SKILL 또는 지식 : Spring boot, EDBPAS, Websocket(stomp)
 
 ## 학력\(Education\)
 
 * 부산대학교 정보컴퓨터공학부 졸
-
